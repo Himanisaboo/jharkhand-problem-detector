@@ -1,0 +1,10 @@
+﻿test_id,complaint_text,expected_domain,expected_category,expected_problem_intent,expected_route,expected_innovation_required,expected_innovation_area
+SS-TEST-001,humare gaav mai light nhi h,Electricity & Power Supply,Frequent Power Outages & Prolonged Blackouts,Village Power Blackout,Government,No,None
+SS-TEST-002,humare teachers available nhi h,School Education,Teacher Shortage & Subject Teacher Absence,Teacher Complete Absence,Government,No,None
+SS-TEST-003,humare yaha paani nhi h,Water Resources & Drinking Water,Village Water Scarcity & Dry Wells,Water Scarcity,Government,No,None
+SS-TEST-004,har sal barish me road gayab ho jata h keechad ho jata h,"Roads, Transport & Mobility",Missing Village Roads & Mud Road Inaccessibility,Monsoon Mud Road Inaccessibility,Government,No,None
+SS-TEST-005,fasal me keeda baar baar lagta h koi AI photo app chahiye,Agriculture & Crop Management,Pest Attacks & Crop Disease Outbreak,Recurring Pest Infestation,Innovation,Yes,AI Crop Disease Detection & Early Pest Warning
+SS-TEST-006,village transformer 2 mahine se burnt h transformer change urget,Electricity & Power Supply,Burnt Distribution Transformer & Overload,Village Transformer Burnt,Government,No,None
+SS-TEST-007,ration dukan par fingerprint fail ho rha h dadi ka ration nahi mil rha,PDS & Food Security,Ration Card Biometric Mismatch,Biometric Authentication Failure,Government,No,None
+SS-TEST-008,primary school girls toilet door broken n no water girls leaving school,School Education,Girls Toilet Absence & Lack of Sanitary Hygiene,Girls Toilet Broken/Waterless,Government,No,None
+SS-TEST-009,handpum kharab h paani nhi nikal rha,Water Resources & Drinking Water,Broken Handpump & Mechanical Failure,Handpump Mechanical Failure,Government,No,None
