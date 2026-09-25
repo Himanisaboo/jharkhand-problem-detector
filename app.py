@@ -15,9 +15,8 @@ from predict_complaint import (
 
 app = Flask(__name__)
 
-DATA_DIR = r"c:\Users\Himani\Desktop\sih2026"
-DB_PATH = os.path.join(DATA_DIR, "samadhan_setu.db")
-
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_PATH = os.path.join(BASE_DIR, "samadhan_setu.db")
 def init_db():
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
